@@ -132,7 +132,7 @@ tr {
 
 .fb-comments-comment-actions likes {
   font-size: 13px;
-  background: url(https://cloudcode.site/likes.png);
+  background: url(assets/img/like.png);
   background-repeat: no-repeat;
   padding-left: 43px;
   padding-right: 6px;
@@ -210,10 +210,12 @@ tr {
 
 @media (max-width: 768px) {
   .video-player {
-    background-image: url("assets/img/happiness.jpg");
     margin-top: 0 !important;
-    
   }
+  .background-image:url("assets/img/happiness.jpg"); {
+    margin-top: 0 !important;
+  }
+  
 }
 
 .a-btn {
