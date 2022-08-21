@@ -210,8 +210,9 @@ tr {
 
 @media (max-width: 768px) {
   .video-player {
-    margin-top: 0 !important;
     background-image: url("assets/img/happiness.jpg");
+    margin-top: 0 !important;
+    
   }
 }
 
